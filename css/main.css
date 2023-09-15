@@ -1,0 +1,39 @@
+*{
+    margin:auto;
+    box-sizing: border-box;
+
+}
+.main-section{
+    height:70vh;
+    background-image:linear-gradient(transparent,rgba(48, 39, 39, 0.695)),url(../images/main-bg.png);
+    background-repeat: no-repeat;
+background-position: center;
+background-size: 100% 100%;
+
+}
+.brand-logo{
+    width:120px;
+    height:120px;
+    border-radius: 50%;
+    font-size:60px;
+}
+.heading{
+    text-align: center;}
+
+
+
+.food-image{
+    width:50%;
+    height:100%;
+}
+.input-group-text{
+    height:38px;
+}
+.image-meals{
+    width:400px !important;
+    height:200px;
+    transition-property:transform box-shadow;
+    transition-duration:0.5s ;
+
+}
+
